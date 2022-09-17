@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="submit_button">GUESS!</string>
+    <string name="editText_string">Enter 4 letter guess here</string>
+    <string name="guess1_title">Guess #1</string>
+    <string name="guess1_check">Guess #1 Check</string>
+    <string name="guess2_title">Guess #2</string>
+    <string name="guess2_check">Guess #2 Check</string>
+    <string name="guess3_title">Guess #3</string>
+    <string name="guess3_check">Guess #3 Check</string>
+</resources>
