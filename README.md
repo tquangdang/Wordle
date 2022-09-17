@@ -32,11 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-## Notes
-
-Describe any challenges encountered while building the app.
+<img src='https://imgur.com/sEZaP84' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
